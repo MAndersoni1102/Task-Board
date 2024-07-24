@@ -4,5 +4,6 @@ This uses Javascript and a modal to create new tasks using multiple functions. Y
 
 Live Site Deployment Link:
 
-Screenshot of the Site:
+Screenshot of the Site:![Screenshot (18)](https://github.com/user-attachments/assets/ed03a065-818b-43d1-a422-865b1839be0a)
+
 
